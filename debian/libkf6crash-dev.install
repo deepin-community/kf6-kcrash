@@ -1,0 +1,3 @@
+usr/include/KF6/KCrash/
+usr/lib/*/cmake/KF6Crash/
+usr/lib/*/libKF6Crash.so
